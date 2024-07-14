@@ -15,3 +15,5 @@ public class TestNote1
     public string Description { get; set; }
 }
 ```
+
+[[Drawing 2024-07-14 00.49.59.excalidraw]]
