@@ -1,0 +1,15 @@
+# Ignore specific files in the .obsidian directory
+
+# Ignore the graph and workspace files
+.obsidian/graph.json
+.obsidian/workspace.json
+
+# Ignore the GitHub Copilot plugin
+.obsidian/plugins/github-copilot
+
+# Ignore the recent files data
+.obsidian/plugins/recent-files-obsidian/data.json
+
+# Ignore IDE settings
+.vs/
+.idea/
